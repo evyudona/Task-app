@@ -8,6 +8,7 @@
 * Ruby
 * Git
 * Heroku
+* aaa
 
 ```
 $ git clone https://github.com/sample-874/sample-app.git
